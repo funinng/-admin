@@ -1,6 +1,6 @@
 # reception
 
-> 董事办书面会议
+> cc
 
 ## Build Setup
 
